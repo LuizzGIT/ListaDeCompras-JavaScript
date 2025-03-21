@@ -1,6 +1,6 @@
-# Titulo do projeto
+# Lista de Compras 
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de lista de compras com JavaScript.
 
 ## 🔨 Funcionalidades do projeto
 
